@@ -2,16 +2,16 @@
 
 ## Description
 
-Hello there! its my first independ project where im building cards which contain some off my fav dishes and there name and how to prepare for yourself and can like the post if one like the dish and its instructions on how to prepare and also one can leave its review dowm the page and can say what ever they like .
+Hello there! im making a browser where card of bots is appearing in user interface.One can has an option of deleting a card of bot or has an option of clicking the card he likes and it appears on his/her army bots as his army collection.
 
 ## Setup/Installation Requirements
 
-- Clone the repo {git clone <git@github.com:Milhan-Omar/meals.git
+- Clone the repo {git clone <git@github.com:Milhan-Omar/code-challenge-bots.git
 
 - and run the `index.html` file with live server vs code extension
 
 ## Live link
- https://milhan-omar.github.io/meals/
+ 
 
 ## Technologies Used
 
