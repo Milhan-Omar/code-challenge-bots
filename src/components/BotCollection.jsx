@@ -6,7 +6,7 @@ function BotCollection({ allBots, setAllBots, handleAddBot }) {
   
 
   return (
-    <div className="all-cards">
+    <div className="all-cards"> 
       {allBots.map((bota) => (
         <div key={bota.id}>
           <div onClick={() => handleAddBot(bota)}>
