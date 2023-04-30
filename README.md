@@ -18,6 +18,8 @@ Hello there! im making a browser where card of bots is appearing in user interfa
 - HTML
 - CSS
 - Javascript
+- React
+
 
 ## Author
 
