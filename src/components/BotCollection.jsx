@@ -8,7 +8,7 @@ function BotCollection({ allBots, setAllBots, handleAddBot }) {
   return (
     <div className="all-cards">
       {allBots.map((bota) => (
-        <div key={bota.id} className=" col-sm-3 mb-4 mb-sm-0">
+        <div key={bota.id}>
           <div onClick={() => handleAddBot(bota)}>
             <BotCard
               className="bg-primary"
